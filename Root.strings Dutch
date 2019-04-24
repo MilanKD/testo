@@ -1,0 +1,32 @@
+{
+    "ENABLED" = "Ingeschakeld";
+
+    "LAYOUT" = "Lay-out";
+    "LAYOUT_MINI" = "Mini";
+    "LAYOUT_MODERN" = "Modern";
+    "LAYOUT_CLASSIC" = "Klassiek";
+
+    "STYLE" = "Stijl";
+    "STYLE_DARK" = "Donker";
+    "STYLE_LIGHT" = "Licht";
+
+    "DISMISS_OPTIONS" = "Sluit Instellingen";
+    "DISMISS_SWIPE" = "Swipe naar beneden om te Sluiten";
+    "DISMISS_AUTO" = "Tijdsduur tot automatisch Sluiten";
+
+    "CUSTOM" = "Aanpassingen";
+    "CUSTOM_APP" = "App om te Openen (Alleen klassieke lay-out)";
+    "CUSTOM_GLOBALDEVICEIMAGE" = "Kies foto van het apparaat";
+    "CUSTOM_VIBRATE" = "Tril wanneer verbonden";
+
+    "EXPERIMENTAL" = "Experimentele Functies";
+    "EXPERIMENTAL_GLOBALDEVICENAME_SWITCH" = "Standaard Naam Vervangen";
+    "EXPERIMENTAL_GLOBALDEVICENAME_LABEL" = "Aangepaste Naam";
+    "EXPERIMENTAL_LEGACY" = "Zet Legacy Detection Aan";
+
+    "CREDITS" = "Credits";
+    "CREDITS_TEST" = "Test Pop-up";
+    "CREDITS_PREFS" = "Instellingen Resetten en Respringen";
+    "CREDITS_CODE" = "Source Code";
+    "CREDITS_DONATE" = "Doneer";
+}
